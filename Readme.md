@@ -19,7 +19,7 @@ The WeatherWhiz is a web application that provides users with up-to-date weather
 The WeatherWhiz is built using HTML, CSS, and JavaScript. It uses APIs from OpenWeatherMap and Open-Meteo to fetch weather data and Meteocons icons to display the weather conditions. The application is hosted on DigitOcean.
 
 ## Live Preview
-[Click Here to View Live Preview](https://plankton-app-lkx24.ondigitalocean.app/)
+[Click Here to View Live Preview](https://weatherwhiz-app-oji58.ondigitalocean.app/)
 
 ## Demo
 
@@ -29,5 +29,5 @@ The WeatherWhiz is built using HTML, CSS, and JavaScript. It uses APIs from Open
 
 My name is Arslan Zafar, and I am a masters student in Hof university of Applied Sciences at Hof, Germany. I am passionate about coding and building applications that make a difference in people's lives.
 
-- Website - [Preview site on DigitalOcean](https://plankton-app-lkx24.ondigitalocean.app/)
+- Website - [Preview site on DigitalOcean](https://weatherwhiz-app-oji58.ondigitalocean.app/)
 - Hof University - [Website](https://www.hof-university.com/)
