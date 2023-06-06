@@ -1,8 +1,8 @@
-# Weather Warden
+# WeatherWhiz
 
 ## Introduction
 
-The Weather Warden is a web application that provides users with up-to-date weather information for their desired location. This project is part of my journey to become a front-end web developer, and it incorporates APIs from OpenWeatherMap and Open-Meteo to fetch weather data and icons from Meteocons by Bas Milius to display the weather conditions.
+The WeatherWhiz is a web application that provides users with up-to-date weather information for their desired location. This project is part of my journey to become a front-end web developer, and it incorporates APIs from OpenWeatherMap and Open-Meteo to fetch weather data and icons from Meteocons by Bas Milius to display the weather conditions.
 
 ## Features
 
@@ -16,19 +16,18 @@ The Weather Warden is a web application that provides users with up-to-date weat
 * The application is responsive and can be used on different screen sizes.
 
 ## Technologies Used
-The Weather Warden is built using HTML, CSS, and JavaScript. It uses APIs from OpenWeatherMap and Open-Meteo to fetch weather data and Meteocons icons to display the weather conditions. The application is hosted on Netlify.
+The WeatherWhiz is built using HTML, CSS, and JavaScript. It uses APIs from OpenWeatherMap and Open-Meteo to fetch weather data and Meteocons icons to display the weather conditions. The application is hosted on DigitOcean.
+
+## Live Preview
+[Click Here to View Live Preview](https://plankton-app-lkx24.ondigitalocean.app/)
 
 ## Screenshot
 
-![](./weather-warden.png)
+![HomePage](./assets/preview.gif)
 
 ## Author
 
-My name is Avinash Tallapaneni, and I am a front-end web developer based in Chennai, India. I am passionate about coding and building applications that make a difference in people's lives.
+My name is Arslan Zafar, and I am a masters student in Hof university of Applied Sciences at Hof, Germany. I am passionate about coding and building applications that make a difference in people's lives.
 
-- Website - [Preview site on netlify](https://weather-warden.netlify.app/)
-- Twitter - [@TallapaneniAvi](https://www.twitter.com/TallapaneniAvi)
-
-## Got feedback?
-
-i love receiving feedback! So if you have anything you'd like to mention, please email avinashtallapaneni[at]gmail[dot]com or message me on socials
+- Website - [Preview site on DigitalOcean](https://plankton-app-lkx24.ondigitalocean.app/)
+- Hof University - [Website](https://www.hof-university.com/)
