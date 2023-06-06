@@ -21,9 +21,9 @@ The WeatherWhiz is built using HTML, CSS, and JavaScript. It uses APIs from Open
 ## Live Preview
 [Click Here to View Live Preview](https://plankton-app-lkx24.ondigitalocean.app/)
 
-## Screenshot
+## Demo
 
-![HomePage](./assets/preview.gif)
+![](./preview.gif)
 
 ## Author
 
